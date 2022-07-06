@@ -45,7 +45,7 @@ export default function Home() {
       <Head>
         <title>Home - Funnelever</title>
         <meta name="description" content="Home" />
-        <link rel="icon" href="/favicon.png" />
+        <link rel="icon" href="/src/images/favicon.png" />
         <link
           rel="stylesheet"
           href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"

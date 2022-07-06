@@ -63,7 +63,6 @@ export default function Login() {
                 <i className="fas fa-lock icon-modify"></i>
                 <input type="password" placeholder="Senha" />
               </label>
-
               <button className="btn btn-second">Entrar</button>
             </form>
           </div>
