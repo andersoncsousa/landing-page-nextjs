@@ -82,7 +82,7 @@ export default function Home() {
             actions={[
               {
                 content: (
-                  <Link href="/plataforma">
+                  <Link href="/">
                     <a title="Funnelever - Funil on time">
                       <Image src={img} alt="Image" width={200} height={50} />
                     </a>
