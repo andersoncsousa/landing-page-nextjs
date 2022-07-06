@@ -1,9 +1,9 @@
 {
-  "name": "dashboard-nextjs",
+  "name": "landing-page-nextjs",
   "private": true,
   "description": "",
   "version": "0.1.0",
-  "author": "",
+  "author": "caique sousa",
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "29.2.0",
     "@ckeditor/ckeditor5-react": "3.0.2",
